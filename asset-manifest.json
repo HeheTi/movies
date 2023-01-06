@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/movies/static/css/main.0bbf4de9.css",
+    "main.js": "/movies/static/js/main.c1315526.js",
+    "static/media/postcard-with-written.svg": "/movies/static/media/postcard-with-written.f81563e5a8d8c0da8a3fa8548388ed7d.svg",
+    "index.html": "/movies/index.html",
+    "static/media/man-in-love-svgrepo-com.svg": "/movies/static/media/man-in-love-svgrepo-com.24eb2294d135d49ded8b57b84e1d468d.svg",
+    "static/media/iconmonstr-arrow-left-thin.svg": "/movies/static/media/iconmonstr-arrow-left-thin.787acd60be452e16c3199ee7ce03b0ca.svg",
+    "main.0bbf4de9.css.map": "/movies/static/css/main.0bbf4de9.css.map",
+    "main.c1315526.js.map": "/movies/static/js/main.c1315526.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bbf4de9.css",
+    "static/js/main.c1315526.js"
+  ]
+}

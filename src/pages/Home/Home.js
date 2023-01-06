@@ -4,13 +4,13 @@ import { fetchTrandingMovies } from 'servises/api';
 import MoviesList from 'components/MoviesList';
 import { Header } from './Home.styled';
 
-const Home = props => {
+const Home = () => {
   const [trandingMovies, setTrandingMovies] = useState([]);
 
   useEffect(() => {
     const fetchMovies = async () => {
       try {
-        const { results, page, total_pages } = await fetchTrandingMovies();
+        const { results } = await fetchTrandingMovies();
         setTrandingMovies(results);
       } catch (error) {
         console.log(error);

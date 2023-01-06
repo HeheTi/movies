@@ -26,6 +26,10 @@ const CastItem = ({ path, name, character }) => {
   );
 };
 
-CastItem.propTypes = {};
+CastItem.propTypes = {
+  path: PropTypes.string,
+  name: PropTypes.string.isRequired,
+  character: PropTypes.string.isRequired,
+};
 
 export default CastItem;

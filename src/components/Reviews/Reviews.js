@@ -39,6 +39,4 @@ const Reviews = () => {
   );
 };
 
-Reviews.propTypes = {};
-
 export default Reviews;
